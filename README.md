@@ -1,3 +1,4 @@
 # scriptcli
 
-"Script simples de loguin para teste de conhecimento."
+Script simples de loguin que retorna uma mensagem de erro.
+Criado para teste de conhecimento.
