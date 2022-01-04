@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+import getpass
+print ("Bem-vindo a pasta de homework de Gabriel");
+print ("Para acessar será necessário suas credenciais!");
+
+usuario= input("Username: ");
+senha= getpass.getpass(prompt='Password: ', stream=None);
+
+print ("Infelizmente suas credenciais: " + usuario + "," + senha +  " estaos incorretas...");
